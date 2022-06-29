@@ -13,3 +13,5 @@ This assignment involves optimizing 1D & 2D convolutions and matrix multiplicati
 ## A4 - Implementations and Approximations of DNN Primitives
 This assignment involves optimization of 2D convolution and matrix multiplication operations using logically different approaches to explore efficiency improvement possibilities. These approaches include Im2Col (rearranging matrix to do convolution as a matrix multiplication), Winograd, FFT (converting matrices to frequency domain and performing multiplication), SVD, and log matrix multiplication (taking log and adding instead of multiplying). The reconstruction error was identified in cases where a non-exact solution was determined (Winograd, FFT, SVD) and speed comparison was conducted on various cases to determine effectiveness of optimizations.
 
+## Project - Self Distillation
+This final course project involves further research into a topic related to the course, with a survey of several papers on the topic and an in-class presentation. No implementation of code.
